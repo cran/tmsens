@@ -1,0 +1,14 @@
+4ee915e919bca19767c2391d0e1e72aa *DESCRIPTION
+a15534b71e8e308c0757067c0b7786d6 *NAMESPACE
+d7934618035a11d0044f5d4db96168db *NEWS.md
+0b8debc11f02e3355c82e442fda4a201 *R/TM_bias.R
+8cdb94e10d685207d00d909e3201e77f *R/tmF.R
+ff328584c510f12703dc5d9eef4e5309 *R/tmsens.R
+fd7ae9e6679a42bba51e857985ef7fb6 *README.md
+88f31c12af146a7c245fb225a7c13895 *man/summary.tm.Rd
+24e92896335d4ff3a7bc0893f6ff1722 *man/tm.Rd
+39472b27e900f63760a8998687f3448b *man/tm_bias.Rd
+597aa78c323a16751dcf2c4cce3daf36 *man/tmsens-package.Rd
+eddb3ed8b11abada806deade0280e460 *tests/testthat.R
+b949bd5f92c0ff2f7479ab34842609d6 *tests/testthat/test-tm_bias.R
+6ebe2b72e821f2539cbc54f19693785e *tests/testthat/test-tmf.R
