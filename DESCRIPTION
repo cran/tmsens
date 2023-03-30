@@ -1,13 +1,13 @@
 Package: tmsens
 Title: Sensitivity Analysis Using the Trimmed Means Estimator
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: c( 
     person("Audinga-Dea", "Hazewinkel",
       role = c("aut", "cre"),
-      email = "a.d.hazewinkel@bristol.ac.uk",
+      email = "dea.hazew@gmail.com",
     comment = c(ORCID = "0000-0002-6923-4388")),
     person("Tom", "Palmer", 
-      email = "tom.palmer@bristol.ac.uk", 
+      email = "remlapmot@hotmail.com", 
     role = c("aut"),
     comment = c(ORCID = "0000-0003-4655-4511")),
  person("Kate", "Tilling", 
@@ -26,19 +26,20 @@ Authors@R: c(
 Description: Sensitivity analysis using the trimmed means estimator.
 License: GPL (>= 3)
 Encoding: UTF-8
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.3
 Imports: stats
-URL: https://github.com/dea-hazewinkel/tmsens
+URL: https://github.com/dea-hazewinkel/tmsens,
+        https://dea-hazewinkel.github.io/tmsens/
 BugReports: https://github.com/dea-hazewinkel/tmsens/issues
 Suggests: testthat
 NeedsCompilation: no
-Packaged: 2022-02-03 13:09:02 UTC; kn18043
+Packaged: 2023-03-30 12:16:48 UTC; tom
 Author: Audinga-Dea Hazewinkel [aut, cre]
     (<https://orcid.org/0000-0002-6923-4388>),
   Tom Palmer [aut] (<https://orcid.org/0000-0003-4655-4511>),
   Kate Tilling [aut] (<https://orcid.org/0000-0002-1010-8926>),
   Kaitlin Wade [aut] (<https://orcid.org/0000-0003-3362-6280>),
   Jack Bowden [aut] (<https://orcid.org/0000-0003-2628-3304>)
-Maintainer: Audinga-Dea Hazewinkel <a.d.hazewinkel@bristol.ac.uk>
+Maintainer: Audinga-Dea Hazewinkel <dea.hazew@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-02-03 14:40:02 UTC
+Date/Publication: 2023-03-30 14:20:02 UTC
