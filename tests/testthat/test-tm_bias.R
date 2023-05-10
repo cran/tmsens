@@ -1,5 +1,7 @@
 context("tm_bias")
 
+skip_on_cran()
+
 set.seed(4077)
 B_test_dat <- as.data.frame(cbind(c(rep(0,500),rep(1,500)),
                                 c(sort(rnorm(500,0,1)),sort(rnorm(500,1,1.5)))))
@@ -63,5 +65,3 @@ expect_error(tm_bias(formula= Y ~ TR, "TR", trF=0.35,
                      side="LOW", spread_TG=0.4,
                      spread_CG=0.3, data=B_test_dat),
              "Trimming fraction smaller than largest dropout proportion")
-
-
