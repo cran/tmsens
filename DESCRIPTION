@@ -1,6 +1,6 @@
 Package: tmsens
 Title: Sensitivity Analysis Using the Trimmed Means Estimator
-Version: 0.3.1
+Version: 0.4.0
 Authors@R: c(
     person("Audinga-Dea", "Hazewinkel", , "dea.hazew@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-6923-4388")),
@@ -20,16 +20,17 @@ URL: https://github.com/dea-hazewinkel/tmsens,
         https://mrcieu.r-universe.dev/tmsens
 BugReports: https://github.com/dea-hazewinkel/tmsens/issues
 Suggests: testthat
+Config/roxygen2/markdown: TRUE
+Config/roxygen2/version: 8.0.0
 Encoding: UTF-8
-RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2024-08-29 09:18:22 UTC; eptmp
-Author: Audinga-Dea Hazewinkel [aut, cre]
-    (<https://orcid.org/0000-0002-6923-4388>),
-  Tom Palmer [aut] (<https://orcid.org/0000-0003-4655-4511>),
-  Kate Tilling [aut] (<https://orcid.org/0000-0002-1010-8926>),
-  Kaitlin Wade [aut] (<https://orcid.org/0000-0003-3362-6280>),
-  Jack Bowden [aut] (<https://orcid.org/0000-0003-2628-3304>)
+Packaged: 2026-07-29 10:45:19 UTC; lshah25
+Author: Audinga-Dea Hazewinkel [aut, cre] (ORCID:
+    <https://orcid.org/0000-0002-6923-4388>),
+  Tom Palmer [aut] (ORCID: <https://orcid.org/0000-0003-4655-4511>),
+  Kate Tilling [aut] (ORCID: <https://orcid.org/0000-0002-1010-8926>),
+  Kaitlin Wade [aut] (ORCID: <https://orcid.org/0000-0003-3362-6280>),
+  Jack Bowden [aut] (ORCID: <https://orcid.org/0000-0003-2628-3304>)
 Maintainer: Audinga-Dea Hazewinkel <dea.hazew@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-08-29 09:30:03 UTC
+Date/Publication: 2026-07-29 11:00:02 UTC
